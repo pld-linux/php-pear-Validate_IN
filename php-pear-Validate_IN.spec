@@ -5,7 +5,7 @@
 %define		_pearname	Validate_IN
 
 Summary:	%{_pearname} - Validation class for the Republic of India
-Summary(pl.UTF-8):   %{_pearname} - klasa walidacji dla Republiki Indii
+Summary(pl.UTF-8):	%{_pearname} - klasa walidacji dla Republiki Indii
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
