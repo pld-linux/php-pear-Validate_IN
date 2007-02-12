@@ -5,7 +5,7 @@
 %define		_pearname	Validate_IN
 
 Summary:	%{_pearname} - Validation class for the Republic of India
-Summary(pl):	%{_pearname} - klasa walidacji dla Republiki Indii
+Summary(pl.UTF-8):   %{_pearname} - klasa walidacji dla Republiki Indii
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
 Release:	1
@@ -31,13 +31,13 @@ Contains locale validation for Indian:
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Pakiet ten dostarcza metod walidacji dla indyjskich:
-- sta硑ch numer體 kont (PAN i TAN)
-- kod體 stan體 oraz terytori體
-- numer體 telefon體
-- kod體 pocztowych
-- numer體 rejestracyjnych pojazd體
+- sta艂ych numer贸w kont (PAN i TAN)
+- kod贸w stan贸w oraz terytori贸w
+- numer贸w telefon贸w
+- kod贸w pocztowych
+- numer贸w rejestracyjnych pojazd贸w
 
 Ta klasa ma w PEAR status: %{_status}.
 
