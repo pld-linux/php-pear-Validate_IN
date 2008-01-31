@@ -8,7 +8,7 @@ Summary:	%{_pearname} - Validation class for the Republic of India
 Summary(pl.UTF-8):	%{_pearname} - klasa walidacji dla Republiki Indii
 Name:		php-pear-%{_pearname}
 Version:	0.1.0
-Release:	1
+Release:	2
 License:	LGPL Version 2.1
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
