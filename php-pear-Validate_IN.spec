@@ -7,12 +7,12 @@
 Summary:	%{_pearname} - Validation class for the Republic of India
 Summary(pl.UTF-8):	%{_pearname} - klasa walidacji dla Republiki Indii
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
-Release:	2
+Version:	0.1.1
+Release:	1
 License:	LGPL Version 2.1
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	fe0e1e03318aa5e220ecc0bb2f1ae9f9
+# Source0-md5:	02ec457499301546324672f8b82c670e
 URL:		http://pear.php.net/package/Validate_IN/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
